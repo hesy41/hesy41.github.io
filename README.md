@@ -1,1 +1,1 @@
-It is the codes for my personal website using minimal mistakes jekyll theme by Michael Rose. It is my biography, including my random thoughs, study notes, tutorials or any other kinds of blog, vlog or plog. hope you enjoy in knowing more about me!
+Here is the codes for my personal website using minimal mistakes jekyll theme by Michael Rose. It is a biography, including my random thoughs, study notes, tutorials or any other kinds of blog, vlog or plog. Hope you enjoy in knowing more about me!
