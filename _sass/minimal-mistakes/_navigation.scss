@@ -238,13 +238,12 @@
       position: relative;
 
       &:before {
-        color: $siyi-pink;
         content: "";
         position: absolute;
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        background: $siyi-pink;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
