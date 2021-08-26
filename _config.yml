@@ -63,6 +63,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/janethsyii/"
+    - label: "Weibo 微博"
+      icon: "fab fa-fw fa-weibo"
+      url: ""
+    - label: "bilibili"
+      icon: "fab fa-fw fa-bilibili"
+      url: ""
+    - label: "Wechat official account"
+      icon: "fab fa-fw fa-WechatOA"
+      url: "" 
 
 footer:
   links:
