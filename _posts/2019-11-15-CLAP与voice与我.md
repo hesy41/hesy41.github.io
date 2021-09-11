@@ -4,7 +4,7 @@ date: 2019-11-15T00:43:30-03:00
 categories:
   - blog
 tags:
-  - update
+  - Random Thoughts
 ---
 
 这么说起来，我与voice好像也还挺有缘分的。

@@ -66,10 +66,10 @@ author:
     - label: "Weibo 微博"
       icon: "fab fa-fw fa-weibo"
       url: "https://www.weibo.com/6046923929/profile?topnav=1&wvr=6&is_all=1"
-    - label: "bilibili"
+    - label: "Bilibili"
       icon: "fab fa-fw fa-bilibili"
       url: "https://space.bilibili.com/14661457"
-      
+
 footer:
   links:
     - label: "GitHub"
