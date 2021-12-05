@@ -15,8 +15,8 @@ I am going to introduce and compare seven sorting algorithms that I learned from
 2. 3) insertion sort
 3. 4) merge sort
 4. 5) quick sort
-5. 6)heap sort
-6. 7)radix sort
+5. 6) heap sort
+6. 7) radix sort
 
 All of my code is available on [Github](https://github.com/hesy41/school-work/tree/main/data-structure-code/sorting_exercise).  
 
