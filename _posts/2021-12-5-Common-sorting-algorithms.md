@@ -10,7 +10,7 @@ excerpt: "seven sorting algorithms"
 
 I am going to introduce and compare seven sorting algorithms that I learned from school. I will describe them with working logic, sudo codes, time complexity and extra memory need. The list of sorting algorithms is:
 
-1. 1) straight selection sort
+1. 1) [straight selection sort](https://hesy41.github.io/blog/Common-sorting-algorithms/#1-straight-selection-sort)
 1. 2) bubble sort
 2. 3) insertion sort
 3. 4) merge sort
