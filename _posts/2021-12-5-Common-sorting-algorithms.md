@@ -18,6 +18,8 @@ I am going to introduce and compare seven sorting algorithms that I learned from
 6. heap sort
 7. radix sort
 
+All of my code is available on [Github](https://github.com/hesy41/school-work/tree/main/data-structure-code/sorting_exercise).  
+
 ## 1. Straight Selection Sort
 
 We first tag the first index in the array with “current position”. Then find the smallest element from “current position” to the last element in the array. Swap the “current position” with the smallest element. Move the “current position” tag to the next element. When the “current position” tag is passed to the last element in the array, the array is sorted.  
@@ -383,5 +385,4 @@ void countSort(int arr[], int size, int digit)
 
     delete[] fixed;
 }
-```
-
+```  
