@@ -10,13 +10,13 @@ excerpt: "seven sorting algorithms"
 
 I am going to introduce and compare seven sorting algorithms that I learned from school. I will describe them with working logic, sudo codes, time complexity and extra memory need. The list of sorting algorithms is:
 
-1. straight selection sort
-2. bubble sort
-3. insertion sort
-4. merge sort
-5. quick sort
-6. heap sort
-7. radix sort
+1. 1) straight selection sort
+1. 2) bubble sort
+2. 3) insertion sort
+3. 4) merge sort
+4. 5) quick sort
+5. 6)heap sort
+6. 7)radix sort
 
 All of my code is available on [Github](https://github.com/hesy41/school-work/tree/main/data-structure-code/sorting_exercise).  
 
