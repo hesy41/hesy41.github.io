@@ -8,7 +8,7 @@ tags:
 excerpt: "seven sorting algorithms"
 ---
 
-I am going to introduce and compare seven sorting algorithms that I learned from school. I will describe them with working logic, sudo codes, time complexity and extra memory need. The list of sorting algorithms is:
+I am going to introduce and compare seven sorting algorithms that I learned from school. I will describe them with working logic, codes, time complexity and extra memory need. The list of sorting algorithms is:
 
 1) [straight selection sort](https://hesy41.github.io/blog/Common-sorting-algorithms/#1-straight-selection-sort)  
 2) [bubble sort](https://hesy41.github.io/blog/Common-sorting-algorithms/#2-bubble-sort)  
